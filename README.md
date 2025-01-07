@@ -9,7 +9,7 @@ This README provides a summary of my technical skills and areas of proficiency.
 ## **Programming Language Proficiency**
 I have expertise in a variety of programming languages, and here is a breakdown of my proficiency levels
 
-![Programming Language Proficiency](https://drive.google.com/file/d/1l1BcyS7kuLVtAqTeTeAi2SIXVxi4ohDL/view?usp=drive_link)
+![Programming Language Proficiency](programminglp.png)
 
 ## **Technical Skills**
 In addition to programming languages, I have honed various technical skills across different areas of software engineering. 
