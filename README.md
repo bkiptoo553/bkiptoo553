@@ -15,7 +15,7 @@ I have expertise in a variety of programming languages, and here is a breakdown 
 In addition to programming languages, I have honed various technical skills across different areas of software engineering. 
 Below is a summary of my skillset, ranging from front-end to back-end, cloud, DevOps, and more
 
-![Technical Skills Proficiency](technicalsp.png)
+![Technical Skills Proficiency](skills.png)
 
 ## **Skills Overview**
 ### **Android Development**
