@@ -50,4 +50,4 @@ Below is a summary of my skillset, ranging from front-end to back-end, cloud, De
 ## **Contact**
 Feel free to reach out to me through the following:
 * **Email:** *bkiptoo553@gmail.com*
-* **GitHub:** *bkiptoo553*
+* **GitHub:** *https://github.com/bkiptoo553*
