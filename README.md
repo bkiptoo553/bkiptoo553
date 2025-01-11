@@ -20,17 +20,19 @@ Below is a summary of my skillset, ranging from front-end to back-end, cloud, De
 ## **Skills Overview**
 ### **Android Development**
 * Native adroid development
+* Firebase
+* Android UI/UX Design
 ### **Web Development:**
 * HTML, CSS, JavaScript, React, Angular
 * UI/UX Design Principles
 * Responsive Web Design
 * Version Control (Git)
-* Node.js, Express, Django, Flask
+* Node.js, Express, Django
 * REST APIs & Microservices
 * Authentication & Authorization (JWT, OAuth)
 * Performance Optimization
 ### **Cloud Computing:**
-* AWS, Azure, Google Cloud
+* AWS, Google Cloud
 * Serverless Architecture
 * Cloud Deployment & Scaling
 ### **Database Management:**
