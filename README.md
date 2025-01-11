@@ -23,7 +23,7 @@ Below is a summary of my skillset, ranging from front-end to back-end, cloud, De
 * Firebase
 * Android UI/UX Design
 ### **Web Development:**
-* HTML, CSS, JavaScript, React, Angular
+* HTML, CSS, JavaScript, React
 * UI/UX Design Principles
 * Responsive Web Design
 * Version Control (Git)
