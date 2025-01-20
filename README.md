@@ -20,7 +20,7 @@ Below is a summary of my skillset, ranging from front-end to back-end, cloud, De
 ## **Skills Overview**
 ### **Android Development**
 * Native adroid development
-* Firebase
+* Firebase and ROOM database
 * Android UI/UX Design
 ### **Web Development:**
 * HTML, CSS, JavaScript, React
